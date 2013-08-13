@@ -10,7 +10,7 @@ A Puppet module to install &amp; manage [SOGo](http://www.inverse.ca/english/con
 ### ToDo
 
 1. Add support for Debian/Ubuntu;
-2. ? &amp; If you'd like to see additional improvements to this Puppet module, please submit an [Issue](https://github.com/vDevices/puppet-sogo/issues).
+2. ? &ndash; if you'd like to see additional improvements to this Puppet module, please submit an [Issue](https://github.com/vDevices/puppet-sogo/issues).
 
 ## What is SOGo?
 
