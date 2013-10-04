@@ -4,7 +4,7 @@ SOGo Puppet module
 A Puppet module to install &amp; manage [SOGo](http://www.inverse.ca/english/contributions/sogo.html) &ndash; a very fast and scalable modern collaboration suite (groupware) that offers calendaring, address book management &amp; a full-featured WebMail client. Share your calendars, address books and mail in your community with a completely free and open source solution. Let your Mozilla Thunderbird/Lightning, Microsoft Outlook, Apple iCal/iPhone &amp; BlackBerry users collaborate using a modern platform.
 
 * **Version:** 0.1
-* **Contributors:** [@janfrode](https://github.com/janfrode) (Deserving of a very special "thanks"!)
+* **Contributors:** [@janfrode](https://github.com/janfrode) (Deserving of a very special "thanks"!); [@vDevices](https://github.com/vDevices)
 * **Contributing:** Contributions are more than welcome, in the form of [Pull Requests](https://github.com/vDevices/puppet-sogo/pulls). Thanks!
 
 ### ToDo
